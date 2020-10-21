@@ -1,6 +1,6 @@
 
 
-## Synthesizing the Unseen for Zero-shot Object Detection
+## Synthesizing the Unseen for Zero-shot Object Detection (ACCV 2020)
 
 Zero Shot Detection (ZSD) is a recently introduced paradigm which enables simultaneous localization and classification of previously unseen objects. It is arguably the most extreme case of learning with minimal supervision. we propose a symantically driven conditional feature generation module to synthesize visual features for unseen objects. 
 
@@ -76,3 +76,14 @@ The following scripts are for dfferents steps in the pipeline on MSCOCO dataset,
     ![](images/gzsd_1.png)
 
     ![](images/gzsd_2.png)
+
+### Citation
+
+'''
+@article{hayat2020synthesizing,
+  title={Synthesizing the Unseen for Zero-shot Object Detection},
+  author={Hayat, Nasir and Hayat, Munawar and Rahman, Shafin and Khan, Salman and Zamir, Syed Waqas and Khan, Fahad Shahbaz},
+  journal={Asian Conference on Computer Vision},
+  year={2020}
+}
+'''
